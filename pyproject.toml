@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "zulip_publisher"
 version = "0.1.0"
-description = ""
+description = "Zulip client application for migrating specific content to another targeted endpoint."
 authors = ["Catalin Gherciu <catalin.gherciu@xfel.eu>"]
 
 [tool.poetry.dependencies]
