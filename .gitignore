@@ -1,0 +1,4 @@
+zulip_publisher/config.toml
+.idea/
+dist/
+.zuliprc
